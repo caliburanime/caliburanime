@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caliburanime (Shahoriar Hossen)
+- 👋 Hi, I’m Calibur
 - 👀 I’m interested in Anime, game, programming,
 - 🌱 I’m currently learning JS, CSS and HTML.
 - 💞️ I’m looking to collaborate on any project.
